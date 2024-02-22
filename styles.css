@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://engineering.jhu.edu/wp-content/uploads/2020/07/west-james-e1596216623190.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+table{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
